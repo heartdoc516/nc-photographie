@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg id="Layer_1" data-name="Layer 1" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 200 200">
+  <defs>
+    <style>
+      .cls-1, .cls-2 {
+        fill: #caf0f8;
+      }
+
+      .cls-2 {
+        stroke-width: 10px;
+      }
+
+      .cls-2, .cls-3 {
+        stroke: #256d85;
+        stroke-miterlimit: 10;
+      }
+
+      .cls-3 {
+        stroke-width: 4px;
+      }
+
+      .cls-3, .cls-4 {
+        fill: #256d85;
+      }
+    </style>
+  </defs>
+  <g id="icon_animal" data-name="icon animal">
+    <path class="cls-2" d="M154.75,114.15c7.98,42.67-22.43,74.15-55.22,73.56-30.49-.55-61.1-30.1-53.13-69.93,9.09-45.41,24.03-77.99,53.13-77.19,30.49,.84,47.76,33.63,55.22,73.56Z"/>
+    <ellipse class="cls-4" cx="79.51" cy="98.58" rx="6.38" ry="7.71"/>
+    <path class="cls-4" d="M113.33,47.87s4.72,31.55-5.42,39.89c-10.14,8.34-11.01,32.46,11.8,37.7,22.81,5.24,34.12-15.96,34.12-15.96,0,0-9.38-58.49-40.49-61.64Z"/>
+    <ellipse class="cls-1" cx="119.71" cy="98.58" rx="6.38" ry="7.71"/>
+    <line class="cls-3" x1="101.11" y1="187.71" x2="101.11" y2="142.24"/>
+    <path class="cls-3" d="M100.83,150.07l-7.53-13.05c-.95-1.64,.24-3.69,2.13-3.69h11.66c1.66,0,2.7,1.8,1.87,3.24l-7.79,13.5c-.08,.13-.26,.13-.34,0Z"/>
+    <polygon class="cls-4" points="73.13 46.18 19.22 12.28 50.26 94.3 73.13 46.18"/>
+    <polygon class="cls-4" points="126.87 46.18 180.78 12.28 149.74 94.3 126.87 46.18"/>
+  </g>
+</svg>

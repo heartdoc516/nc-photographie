@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg id="Layer_1" data-name="Layer 1" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 200 200">
+  <defs>
+    <style>
+      .cls-1 {
+        stroke-width: 1.39px;
+      }
+
+      .cls-1, .cls-2, .cls-3 {
+        fill: #caf0f8;
+      }
+
+      .cls-1, .cls-2, .cls-3, .cls-4 {
+        stroke: #256d85;
+        stroke-linecap: round;
+        stroke-miterlimit: 10;
+      }
+
+      .cls-2 {
+        stroke-width: 1.07px;
+      }
+
+      .cls-3 {
+        stroke-width: 2px;
+      }
+
+      .cls-4 {
+        fill: none;
+        stroke-width: 13px;
+      }
+    </style>
+  </defs>
+  <g id="icon_retouches-photo" data-name="icon retouches-photo">
+    <line class="cls-4" x1="29.92" y1="168.26" x2="119.81" y2="78.37"/>
+    <polygon class="cls-3" points="104.15 73.26 91.32 59.45 75.54 66.61 89.02 54.33 82.01 37.95 94.5 51.32 108.49 45.64 97.41 56.8 104.15 73.26"/>
+    <polygon class="cls-1" points="135.91 126.99 127.29 117.28 116.53 122.47 125.77 113.67 121.12 102.1 129.51 111.5 139.05 107.37 131.45 115.37 135.91 126.99"/>
+    <polygon class="cls-2" points="149.42 75.25 143.16 67.62 135.11 71.9 142.07 64.76 138.77 55.6 144.88 62.98 152 59.58 146.26 66.04 149.42 75.25"/>
+  </g>
+</svg>
